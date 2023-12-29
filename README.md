@@ -110,7 +110,11 @@ function App() {
 export default App; 
 ```
 
--Steps3
+- Steps3
 
-Complete the remaining functions and check it by running "npm start" on command line.
+Complete the remaining functions and check it by running the following command:
+
+```bash
+npm start
+```
   

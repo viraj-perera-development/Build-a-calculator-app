@@ -1,15 +1,19 @@
-"# Build-a-calculator-app" 
+# Build-a-calculator-app
 
-#TO RUN THIS APPLICATION:
+**TO RUN THIS APPLICATION:**
 
-paste "npm start" on your terminal
+```bash
+npm start
+```
 
-#TO EXERCISE:
+**TO EXERCISE:**
 
--Steps1
+- Steps1
 
 Create an App.css file on your root folder and paste the following code:
 
+### App.css
+```css
 * {
     font-family: sans-serif;
   }
@@ -33,12 +37,14 @@ Create an App.css file on your root folder and paste the following code:
     background: tomato;
     color: white;
   }
+```
 
-
--Steps2
+- Steps2
 
 Into your App.js file paste the following code:
 
+### App.js
+```jsx
 import {
   useState,
   useRef
@@ -102,6 +108,7 @@ function App() {
 } 
  
 export default App; 
+```
 
 -Steps3
 
